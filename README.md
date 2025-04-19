@@ -1,5 +1,13 @@
-# Chirpy Starter
+# Chelsey Beck's Blog
+View the [live site](https://chelseybeck.com/about)
 
+Run site locally
+```
+bundle exec jekyll s
+```
+
+## Built with 
+### Chirpy Starter
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
